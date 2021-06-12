@@ -1,2 +1,2 @@
 # Docker
-alias dkclean="bash bin/docker-delete-untagged-images.sh"
+alias dkclean="bash ~/git/util-files/bin/docker-delete-untagged-images.sh"
