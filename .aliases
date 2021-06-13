@@ -1,2 +1,3 @@
 # Docker
 alias dkclean="bash ~/git/util-files/bin/docker-delete-untagged-images.sh"
+alias dki='docker images'
